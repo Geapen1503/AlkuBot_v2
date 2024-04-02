@@ -15,7 +15,7 @@ from quotes import Quotes
 import time
 import schedule
 
-
+# Not the latest version, need to get the latest from the server
 
 intents = discord.Intents.all()
 intents.members = True
